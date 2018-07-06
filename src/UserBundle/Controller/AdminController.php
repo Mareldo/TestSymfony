@@ -14,4 +14,6 @@ class AdminController
             '<html><body>test</body></html>'
         );
     }
+
+    
 }
